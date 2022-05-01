@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Fitpeo Task</string>
+    <string name="profile_photo">profile photo</string>
+    <string name="nora_kim">Nora Kim</string>
+    <string name="floor_1_boston">Floor 1,Boston</string>
+    <string name="i">i</string>
+    <string name="robin">Robin</string>
+    <string name="today_june_11">Today, June 11</string>
+    <string name="quarter_3_product_amp_engineering_kickoff"><![CDATA[Quarter 3 Product & Engineering Kickoff...]]></string>
+    <string name="meeting_in_11_min_at_11_00_am">Meeting in 11 min at 11:00 am</string>
+    <string name="_6_attendees_in_office">6 attendees in office</string>
+    <string name="details">details</string>
+    <string name="add_a_space">Add a space</string>
+    <string name="_3_more_events_later"><![CDATA[3 more events later ->]]></string>
+    <string name="plan_ahead">Plan ahead</string>
+    <string name="get_a_desk_for_next_week">Get a desk for next week</string>
+    <string name="_6_teammates_will_be_in">6 teammates will be in</string>
+    <string name="pass">Pass</string>
+    <string name="office">Office</string>
+    <string name="people">People</string>
+    <string name="title_activity_pass">PassActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="pass_detail">Pass Detail</string>
+    <string name="backbutton">BackButton</string>
+    <string name="notes">Notes</string>
+    <string name="you_are_the_first_people_back_in_the_office_mind_the_signs_put_up_and_complete_your_checkpoint_daily">You are the first people back in the office! Mind the signs put up and complete your checkpoint daily.</string>
+    <string name="offices">Offices</string>
+    <string name="location">Location</string>
+    <string name="boston_hq">Boston HQ</string>
+    <string name="work_area">Work area</string>
+    <string name="sales_amp_marketing_q"><![CDATA[Sales & Marketing Q]]></string>
+    <string name="desk">Desk</string>
+    <string name="view_on_map"><![CDATA[View on map ->]]></string>
+    <string name="schedule">Schedule</string>
+    <string name="mon_wed_fri">Mon,Wed,Fri</string>
+    <string name="sales_amp_marketing"><![CDATA[Sales & Marketing]]></string>
+    <string name="permissions">Permissions</string>
+    <string name="desk_booking">Desk Booking</string>
+    <string name="during_office_hours">During office hours</string>
+
+    <string-array name="schedule_array">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thur</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+</resources>
